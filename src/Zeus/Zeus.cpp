@@ -35,7 +35,7 @@ int main(int argc, char **argv)
     PLX::Printer::WriteLineHeader("INIT", "-------------------------------------");
     PLX::Printer::WriteLineHeader("INIT", "Zeus by Scobalula");
     PLX::Printer::WriteLineHeader("INIT", "Black Ops III D3DBSP Converter");
-    PLX::Printer::WriteLineHeader("INIT", "Version: 1.0.0.0 - Yohan Stresser Edition");
+    PLX::Printer::WriteLineHeader("INIT", "Version: 1.0.1.0 - Yohan Stresser Edition");
     PLX::Printer::WriteLineHeader("INIT", "-------------------------------------");
 
     auto exeDir = GetExePath().parent_path().string();
